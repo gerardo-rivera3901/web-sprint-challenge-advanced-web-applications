@@ -64,6 +64,7 @@ form {
   margin-top: 60px;
   display: flex;
   flex-direction: column;
+  justify-content: center;
 
   legend {
     padding-left: 40px;
@@ -80,7 +81,7 @@ form {
   }
 
   input {
-    width: 100px;
+    // width: 100px;
   }
 }
 
